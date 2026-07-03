@@ -26,9 +26,9 @@ const Navbar = () => {
 
   return (
     <nav className={`navbar ${scrolled ? 'scrolled' : ''}`}>
-      <div className="container">
+      <div className="container" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
         <a href="#home" className="logo" onClick={closeMenu}>
-          Nene.
+          Nene Chukwuemeka-Eke.
         </a>
         
         <div className={`nav-links ${isOpen ? 'active' : ''}`}>

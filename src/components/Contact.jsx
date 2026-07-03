@@ -55,7 +55,7 @@ const Contact = () => {
         </div>
 
         <div className="footer-bottom delay-2">
-          <p>&copy; {currentYear} Nene Chukwuemeka-Eke. Designed for Excellence.</p>
+          <p>&copy; {currentYear} Nene Chukwuemeka-Eke.</p>
         </div>
       </div>
     </footer>

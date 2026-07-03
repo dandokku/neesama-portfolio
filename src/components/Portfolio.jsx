@@ -48,7 +48,7 @@ const Portfolio = () => {
       id: 4,
       title: 'Departmental Communication',
       description: 'Shaping the brand voice for the Microbiology Dept, Veritas University.',
-      image: null,
+      image: '/assets/directorofsocial.jpeg',
       gridClass: 'item-4'
     }
   ];
