@@ -41,7 +41,7 @@ const Portfolio = () => {
       id: 3,
       title: 'Promo Flyer Design',
       description: 'Engaging visual assets created to boost sales and brand awareness.',
-      image: null,
+      image: '/assets/flyer.jpeg',
       gridClass: 'item-3'
     },
     {
